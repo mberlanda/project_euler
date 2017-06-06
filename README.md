@@ -7,3 +7,4 @@ This repo contains my solutions to [Project Euler Problems](https://projecteuler
 - [3. Largest prime factor](003.rb)
 - [4. Largest palindrome product](004.rb)
 - [5. Smallest multiple](005.rb)
+- [6. Sum square difference](006.rb)
