@@ -4,3 +4,4 @@ This repo contains my solutions to [Project Euler Problems](https://projecteuler
 
 - [1. Multiples of 3 and 5](001.rb)
 - [2. Even Fibonacci numbers](002.rb)
+- [3. Largest prime factor](003.rb)
